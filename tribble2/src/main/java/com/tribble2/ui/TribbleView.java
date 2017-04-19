@@ -153,6 +153,7 @@ public class TribbleView extends UI {
             fieldGroup.setItemDataSource(new BeanItem<>(typeDefinition));
             fieldGroup.setBuffered(false);
             fieldGroup.bindMemberFields(this);
+
         }
 
     }
