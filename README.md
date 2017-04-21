@@ -56,3 +56,6 @@
 - reactive programming (flux/mono..., reactor) 
 - jdk9
 - noqsl (MongoDB, Casandra)
+
+# References:
+- [ebooks](https://github.com/LesliePajuelo/information-technology-ebooks)
