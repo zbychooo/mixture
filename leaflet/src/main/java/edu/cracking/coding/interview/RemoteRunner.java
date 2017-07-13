@@ -1,11 +1,11 @@
-/**
- * Created by natkanskiz on 02.02.2017.
- */
+package edu.cracking.coding.interview;
+
+
 public class RemoteRunner {
 
     public static void main(String[] args) {
 
-        System.out.println("gg");
+
     }
 }
 
@@ -103,7 +103,7 @@ class Employee {
 
     @Override
     public String toString() {
-        return "Employee{" +
+        return "edu.cracking.coding.interview.Employee{" +
                 "id=" + id +
                 ", firstName='" + firstName + '\'' +
                 ", lastName='" + lastName + '\'' +
